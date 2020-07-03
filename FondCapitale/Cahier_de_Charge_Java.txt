@@ -1,0 +1,13 @@
+Projet POO: Application de QUIZ capitales et mathématiques
+
+Objectifs :
+L'utilisateur repondra aux questions aléatoires qui lui seront posé sur:
+	-la capitale de différents pays 
+	-le résultat de plusieurs opérations mathématique
+A la fin il sera rendu:
+	-Le score de l'utilisateur
+	-Le temps mis pour y arrivé
+L'utilisateur aura la possibilité de rejouer ou non
+L'utilisateur aura la possibilté de jouer en mode:
+	-Console
+	-Interface Graphique
